@@ -1,0 +1,9 @@
+header {
+  display: block;
+  text-align: center;
+  margin: 30px;
+  background: greenyellow;
+}
+.btn {
+  margin: 50px;
+}
