@@ -1,0 +1,14 @@
+body {
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(50, 172, 109) 0%,
+    rgb(209, 251, 155) 100.2%
+  );
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
