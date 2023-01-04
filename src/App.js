@@ -10,7 +10,7 @@ export default function App() {
           <h2>Enhance Your Vocabulary</h2>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="universe" />
         </main>
         <footer className="app-footer">
           <a
