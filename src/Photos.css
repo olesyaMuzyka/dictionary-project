@@ -1,0 +1,8 @@
+.container img {
+  border-radius: 5px;
+  margin: 10px;
+}
+.container img:hover {
+  filter: brightness(1.5);
+  transform: scale(1.7);
+}
