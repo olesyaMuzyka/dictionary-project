@@ -1,6 +1,6 @@
 .Photos img {
   border-radius: 5px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 .Photos img:hover {
   filter: brightness(1.5);
